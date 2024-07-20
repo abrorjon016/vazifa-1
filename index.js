@@ -114,3 +114,31 @@
 // let res2 = Math.trunc(num / 10) % 10;
 // let res3 = num % 10;
 // console.log( res2, res);
+
+// osonroq masalalar
+
+// 1-masala
+// let num = 700;
+
+// let res = num / 2;
+// let res2 = num * 2;
+// console.log(res, res2);
+
+// 2-masala
+// function sum(a, b, c) {
+//   return a * a + b * b + c * c;
+// }
+// let num1 = 2;
+// let num2 = 3;
+// let num3 = 4;
+// console.log(sum(num1, num2, num3));
+
+// 3-masala
+
+// 4-masala
+
+// let num = 70;
+// let res = num * 10;
+// let res2 = (num -= 7);
+
+// console.log(res, res2);
